@@ -22,6 +22,7 @@
 #### 連絡先(Contact)
  - [Email](mailto:contact@tmpra.jp)
  - [Twitter](https://Twitter.com/TMP_tenpura)
+![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=TMP-tenpura)
 <!--
 **TMP-tenpura/TMP-tenpura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
