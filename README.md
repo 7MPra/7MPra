@@ -13,9 +13,6 @@
  <!--
  - C++(勉強中)
  -->
-#### 開発しているもの(I'm contributing about ......)
- - Cuuloud[frontend](https://github.com/NaiwTeam/cuuloud_frontend)[backend](https://github.com/NaiwTeam/cuuloud_backend)
- - MicnoProject(開発中止)
 #### 趣味(My hobby)
  - DTM
  - VALORANT
