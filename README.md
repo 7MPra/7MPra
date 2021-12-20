@@ -14,7 +14,6 @@
  - C++(勉強中)
  -->
 #### 趣味(My hobby)
- - DTM
  - VALORANT
  - Twitter
 #### 連絡先(Contact)
