@@ -15,7 +15,6 @@
  -->
 #### 趣味(My hobby)
  - VALORANT
- - Twitter
 #### 連絡先(Contact)
  - [Email](mailto:contact@tmpra.jp)
  - [Twitter](https://Twitter.com/TMP_tenpura)
