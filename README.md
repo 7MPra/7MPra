@@ -15,6 +15,7 @@
  -->
 #### 趣味(My hobby)
  - VALORANT
+ - VRChat
 #### 連絡先(Contact)
  - [Email](mailto:contact@tmpra.jp)
  - [Twitter](https://Twitter.com/TMP_tenpura)
