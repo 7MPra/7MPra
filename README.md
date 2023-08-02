@@ -9,6 +9,8 @@
 #### 使えるプログラミング言語(Programing language)
  - Python
  - Javascript
+ - Udon(C#)
+ - vvvv gamma
  - Go
  <!--
  - C++(勉強中)
@@ -16,12 +18,15 @@
 #### 趣味(My hobby)
  - VALORANT
  - VRChat
- - DJ(inVR!)
+ - DJ
+ - VJ
+ - livecoding
+
 #### 連絡先(Contact)
  - [Email](mailto:contact@tmpra.jp)
- - [Twitter](https://Twitter.com/TMP_tenpura)
+ - [Twitter](https://Twitter.com/7MPra)
 <!--
-**TMP-tenpura/TMP-tenpura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**7MPra/7MPra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
