@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=TMP-tenpura)
+![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=7MPra)
 #### 話せる言語(Language)
  - 日本語 - Japanese
  - 英語(ちょっとだけ！) - English(a little!)
