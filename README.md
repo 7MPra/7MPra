@@ -9,18 +9,12 @@
 #### 使えるプログラミング言語(Programing language)
  - Python
  - Javascript
- - Udon(C#)
+ - C#
  - vvvv gamma
  - Go
  <!--
  - C++(勉強中)
  -->
-#### 趣味(My hobby)
- - VALORANT
- - VRChat
- - DJ
- - VJ
- - livecoding
 
 #### 連絡先(Contact)
  - [Email](mailto:contact@tmpra.jp)
